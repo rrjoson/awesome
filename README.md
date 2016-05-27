@@ -5,4 +5,7 @@ What makes Potatocodes Inc. awesome
 * [Deckset](http://www.decksetapp.com/)
 * [Slides](https://slides.com/)
 
+## Exercises
+
+* [Exercism](http://exercism.io/)
 
